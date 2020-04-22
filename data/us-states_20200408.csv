@@ -1,0 +1,56 @@
+date,state,fips,cases,deaths
+4/8/20,Alabama,1,2499,67
+4/8/20,Alaska,2,224,5
+4/8/20,Arizona,4,2726,80
+4/8/20,Arkansas,5,1077,18
+4/8/20,California,6,19043,506
+4/8/20,Colorado,8,5655,192
+4/8/20,Connecticut,9,8781,335
+4/8/20,Delaware,10,1116,19
+4/8/20,District of Columbia,11,1440,27
+4/8/20,Florida,12,15690,322
+4/8/20,Georgia,13,10204,370
+4/8/20,Guam,66,409,4
+4/8/20,Hawaii,15,433,5
+4/8/20,Idaho,16,1232,19
+4/8/20,Illinois,17,15078,464
+4/8/20,Indiana,18,5943,203
+4/8/20,Iowa,19,1145,27
+4/8/20,Kansas,20,1055,38
+4/8/20,Kentucky,21,1393,73
+4/8/20,Louisiana,22,17030,652
+4/8/20,Maine,23,537,14
+4/8/20,Maryland,24,5529,124
+4/8/20,Massachusetts,25,16790,433
+4/8/20,Michigan,26,20220,959
+4/8/20,Minnesota,27,1154,39
+4/8/20,Mississippi,28,2003,67
+4/8/20,Missouri,29,3327,86
+4/8/20,Montana,30,332,6
+4/8/20,Nebraska,31,538,14
+4/8/20,Nevada,32,2318,80
+4/8/20,New Hampshire,33,788,18
+4/8/20,New Jersey,34,47437,1504
+4/8/20,New Mexico,35,865,16
+4/8/20,New York,36,149401,6268
+4/8/20,North Carolina,37,3423,61
+4/8/20,North Dakota,38,251,4
+4/8/20,Northern Mariana Islands,69,11,2
+4/8/20,Ohio,39,5148,193
+4/8/20,Oklahoma,40,1524,79
+4/8/20,Oregon,41,1239,38
+4/8/20,Pennsylvania,42,16414,313
+4/8/20,Puerto Rico,72,620,24
+4/8/20,Rhode Island,44,1450,35
+4/8/20,South Carolina,45,2552,63
+4/8/20,South Dakota,46,393,6
+4/8/20,Tennessee,47,4246,83
+4/8/20,Texas,48,9900,195
+4/8/20,Utah,49,1875,13
+4/8/20,Vermont,50,605,23
+4/8/20,Virgin Islands,78,45,1
+4/8/20,Virginia,51,3645,75
+4/8/20,Washington,53,9097,454
+4/8/20,West Virginia,54,483,4
+4/8/20,Wisconsin,55,2756,107
+4/8/20,Wyoming,56,230,0
